@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 0000-00-00
+date: 2021-07-21
 title: Oi
 feature: 1
 image_text: |
